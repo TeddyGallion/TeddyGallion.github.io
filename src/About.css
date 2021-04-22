@@ -1,0 +1,50 @@
+.container{
+	position:absolute;
+	width:70%;
+	padding-left: 20%;
+}
+.About h2{
+	text-align: center;
+	padding-left: 10%;
+}
+.contact li{
+	font-size:1em;
+}
+.contact a {
+  padding: 10px 0 10px 0;
+  display: block;
+  color:lightblue;
+  margin-right: 8%;
+}
+.contact a:visited{
+  color:lavenderblush;
+}
+.contact a:hover{
+    color: limegreen;
+}
+.contact a:active{
+    color: limegreen;
+}
+
+section{
+	width: 50%;
+	margin:auto;
+    opacity: 70%;
+    border-radius: .5%;
+}
+ h3{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ul{
+	text-align:center;
+}
+ li{
+	ont-size: .8em;
+    text-align: center;
+}
+
+.container section:nth-of-type(odd){
+	background-color: #F0FFF1;
+}

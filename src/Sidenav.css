@@ -1,0 +1,25 @@
+
+.Sidenav
+    font-size: 1.2em;
+    background-size: 100%;
+    background:grey;
+    opacity:60%;
+    height:100%;
+    border-radius:.5%;
+    position:fixed;
+    display:block;
+
+}
+  .sidenav ul{
+    display:inline;
+  }
+  .sidenav li{
+    list-style: none;
+    color:#270722;
+    text-decoration: none;
+    position:center;
+  }
+  a:-webkit-any-link{
+    text-decoration: none;
+    color: orange;
+  }

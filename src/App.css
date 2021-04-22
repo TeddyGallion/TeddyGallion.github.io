@@ -1,0 +1,31 @@
+.Sidenav {
+    background-size: 100%;
+    height: 100%;
+    border-radius: .5%;
+    top:0;
+    position: fixed;
+    display: block;
+    opacity:60%;
+    background-color: black;
+}
+a{
+  font-size:1em;
+  text-decoration: none;
+}
+.Sidenav a {
+  padding: 6px 8px 6px 16px;
+  display: block;
+  color:lightblue;
+}
+.Sidenav a:visited{
+  color:lavenderblush;
+}
+.Sidenav a:hover{
+    color: limegreen;
+  }
+.Sidenav a:active{
+    color: limegreen;
+  }
+
+
+ 

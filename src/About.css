@@ -20,29 +20,29 @@
   color:lavenderblush;
 }
 .contact a:hover{
-    color: limegreen;
+  color: limegreen;
 }
 .contact a:active{
-    color: limegreen;
+  color: limegreen;
 }
 
 section{
 	width: 50%;
 	margin:auto;
-    opacity: 70%;
-    border-radius: .5%;
+  opacity: 70%;
+  border-radius: .5%;
 }
  h3{
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 ul{
 	text-align:center;
 }
- li{
-	ont-size: .8em;
-    text-align: center;
+.contact li{
+	font-size: .8em;
+  text-align: center;
 }
 
 .container section:nth-of-type(odd){
